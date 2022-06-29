@@ -10,6 +10,6 @@ git clone https://github.com/arifrhm/Negative-Test-Selenium-Python-FB-Login.git
 3. And you will see a chrome browser opened and do some fill test in email and password form
 4. As you can see in the image below, the result is FAILED test :
 
-![Result]([(https://raw.githubusercontent.com/arifrhm/Negative-Test-Selenium-Python-FB-Login/main/Screen%20Shot%202022-06-28%20at%2022.48.59.png)])
+![Result](https://raw.githubusercontent.com/arifrhm/Negative-Test-Selenium-Python-FB-Login/main/Screen%20Shot%202022-06-28%20at%2022.48.59.png)
 
 6. It happened because we fill email and password data with either wrong credential or not registered user.
