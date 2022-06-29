@@ -12,4 +12,4 @@ git clone https://github.com/arifrhm/Negative-Test-Selenium-Python-FB-Login.git
 
 ![Result](https://raw.githubusercontent.com/arifrhm/Negative-Test-Selenium-Python-FB-Login/main/Screen%20Shot%202022-06-28%20at%2022.48.59.png)
 
-6. It happened because we fill email and password data with either wrong credential or not registered user.
+6. It happened because we fill email and password data with either wrong credential or not registered user as expected Negative Result.
